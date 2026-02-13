@@ -3,7 +3,7 @@
 ## 🔴 CRITICAL ISSUE: Gemini API Key Not Working
 
 ### Current Problem
-Your Gemini API key (`AIzaSyDpOdHL1BGcBamfV4JAPtmHLIRLDI9qKBQ`) is **NOT working** with ANY Gemini model.
+Your Gemini API key (`xxxxxxxxxx`) is **NOT working** with ANY Gemini model.
 
 **Error:**
 ```
@@ -360,3 +360,4 @@ Let me know and I'll help you proceed!
 - OR use paid AI service → 98%+ accuracy
 
 **Your Choice:** What would you like to do?
+
